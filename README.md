@@ -27,7 +27,6 @@
 - 🎓 Undergraduate at **NIT Jalandhar** | **Information Technology**
 - 🌈 Passionate about **Web Development** — always learning & building!
 - 💻 Currently exploring **React** and modern web technologies
-- 🏆 Competitive Programmer — always up for a challenge!
 
 ---
 
