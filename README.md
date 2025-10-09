@@ -8,15 +8,15 @@
   <img src="https://img.shields.io/badge/NIT%20Jalandhar-Information%20Technology-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Web%20Development%20Enthusiast-💻-purple?style=for-the-badge">
   <br>
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge">
+  <a href= "https://react.dev/learn"><img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge"></a>
+  <a href= "https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"></a>
+  <a href= "https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"></a>
+  <a href="https://tailwindcss.com/docs/installation/using-vite"><img src="https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge"></a>
+  <a href="https://www.python.org/about/gettingstarted/"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"></a>
+  <a href="https://cplusplus.com/doc/tutorial/"><img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"></a>
   <br>
-  <img src="https://img.shields.io/badge/Competitive%20Programming-Orange?style=for-the-badge">
+  <a href="#"><img src="https://img.shields.io/badge/Competitive%20Programming-Orange?style=for-the-badge"></a>
 
 </div>
 
