@@ -2,11 +2,11 @@
 
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hey,%20I'm%20Umesh%20Rathod!&fontSize=40&fontAlign=center" alt="banner"/>
+  <a href="#"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hey,%20I'm%20Umesh%20Rathod!&fontSize=40&fontAlign=center" alt="banner"/> </a>
   
   <br>
-  <img src="https://img.shields.io/badge/NIT%20Jalandhar-Information%20Technology-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Web%20Development%20Enthusiast-💻-purple?style=for-the-badge">
+  <a href="#"><img src="https://img.shields.io/badge/NIT%20Jalandhar-Information%20Technology-blue?style=for-the-badge"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Web%20Development%20Enthusiast-💻-purple?style=for-the-badge"></a>
   <br>
   <a href= "https://react.dev/learn"><img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge"></a>
   <a href= "https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"></a>
