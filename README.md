@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  <a href="#"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hey,%20I'm%20Umesh%20Rathod!&fontSize=40&fontAlign=center" alt="banner"/> </a>
+  <a href="#"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hey,%20I'm%20Rathod%20Umesh!&fontSize=40&fontAlign=center" alt="banner"/> </a>
   
   <br>
   <a href="#"><img src="https://img.shields.io/badge/NIT%20Jalandhar-Information%20Technology-blue?style=for-the-badge"></a>
